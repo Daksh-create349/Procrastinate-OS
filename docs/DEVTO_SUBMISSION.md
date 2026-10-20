@@ -32,7 +32,7 @@ Most modern "AI productivity" tools demand that you upload your private disk to 
 It runs **100% locally on your machine** — zero cloud API calls, zero telemetry, zero token bills, and zero chance of data leaking onto the public internet.
 
 ### Who gets to be lazier because of it?
-* **Developers and Researchers**: Stop agonizing over cluttered workspaces and chaotic download folders. The machine calculates cryptographic SHA-256 digests in milliseconds and clusters forgotten files into coherent projects automatically.
+* **Developers and Researchers**: Stop agonizing over cluttered workspaces and chaotic download folders. The machine calculates cryptographic SHA-256 digesats in milliseconds and clusters forgotten files into coherent projects automatically.
 * **Anyone Paralyzed by Digital Clutter**: Instead of facing a 400-file cleanup chore, you pick a 15-minute time budget. ProcrastinateOS provides a short, ranked queue of 3 to 5 micro-tasks you can complete in a single coffee break.
 * **Privacy-Conscious Professionals**: Work with confidential client contracts, medical notes, or proprietary research without fear of third-party cloud data harvesting.
 
