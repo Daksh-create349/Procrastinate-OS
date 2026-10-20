@@ -1,0 +1,50 @@
+MIT License
+
+Copyright (c) 2026 ProcrastinateOS Contributors
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+--------------------------------------------------------------------------------
+THIRD-PARTY COMPONENT & MODEL LICENSING NOTICE
+--------------------------------------------------------------------------------
+
+This repository and its codebase are distributed under the MIT License above.
+Third-party dependencies and local machine learning models utilized by this application
+are governed by their respective independent licenses:
+
+1. Qwen 2.5:1.5B Model (Alibaba Group):
+   - Distributed via Ollama under the permissive Apache License 2.0 and the Qwen License.
+   - Model weights and architecture are governed by the original Qwen license agreements.
+
+2. Ollama Inference Runtime (Ollama Inc.):
+   - Distributed under the MIT License (https://github.com/ollama/ollama).
+
+3. Python Backend Dependencies:
+   - FastAPI (MIT License)
+   - Pydantic & Pydantic-Settings (MIT License)
+   - Uvicorn (BSD 3-Clause License)
+   - HTTPX (BSD 3-Clause License)
+   - PyPDF (BSD 3-Clause License)
+   - Python-docx (MIT License)
+
+4. Frontend JavaScript / React Dependencies:
+   - React & React-DOM (MIT License)
+   - Vite (MIT License)
+   - Lucide React (ISC License)
+   - TypeScript (Apache License 2.0)

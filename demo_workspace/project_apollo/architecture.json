@@ -1,0 +1,6 @@
+{
+  "project": "Apollo",
+  "target_architecture": "ARM64/x86_64",
+  "protocol": "gRPC",
+  "buffer_size_mb": 64
+}

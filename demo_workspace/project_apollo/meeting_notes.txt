@@ -1,0 +1,3 @@
+Project Apollo Engineering Sync - October 2026
+Discussed telemetry batching performance on constrained devices.
+Lead engineer: Dr. Elena Vance.

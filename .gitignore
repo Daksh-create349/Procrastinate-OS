@@ -1,0 +1,45 @@
+# Operating System
+.DS_Store
+Thumbs.db
+
+# Environment variables
+.env
+*.env.local
+
+# Python & Backend
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+backend/venv/
+backend/.venv/
+venv/
+venv
+.venv/
+.venv
+env/
+.pytest_cache/
+.coverage
+htmlcov/
+dist/
+build/
+*.egg-info/
+
+# Frontend & Node
+frontend/node_modules/
+node_modules/
+frontend/dist/
+frontend/.tmp/
+*.tsbuildinfo
+
+# IDE & Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Ollama / Temporary data
+scratch/
+tmp/
+*.log
