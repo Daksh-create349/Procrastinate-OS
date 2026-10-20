@@ -277,6 +277,14 @@ Open **`http://localhost:5173`** in your browser.
 
 ---
 
+## Video Walkthrough
+
+Watch the 90-second system demo on YouTube: [https://youtu.be/_mMriufO8wQ](https://youtu.be/_mMriufO8wQ)
+
+[![ProcrastinateOS Demo Video](https://img.youtube.com/vi/_mMriufO8wQ/maxresdefault.jpg)](https://youtu.be/_mMriufO8wQ)
+
+---
+
 ## Automated Demo Walkthrough
 
 We provide an end-to-end automated demo script that runs all 10 workflow steps against a synthetic workspace containing zero private data:

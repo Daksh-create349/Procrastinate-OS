@@ -27,8 +27,8 @@ Before contributing code, please ensure your design respects these non-negotiabl
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/procrastinateos/procrastinateos.git
-   cd procrastinateos
+   git clone https://github.com/Daksh-create349/Procrastinate-OS.git
+   cd Procrastinate-OS
    ```
 
 2. **Setup Backend**:

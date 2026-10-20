@@ -3,8 +3,8 @@ title: "Slow and Steady: Building ProcrastinateOS, a 100% Local AI File Organize
 published: false
 description: "How we built a local-first, privacy-preserving desktop productivity tool combining deterministic analysis with on-device LLMs (qwen2.5:1.5b) — zero cloud APIs, zero recurring bills, and safe reversible filesystem actions."
 tags: "hf26challenge, hacktoberfest, python, ai"
-canonical_url: "https://github.com/procrastinateos/procrastinateos"
-cover_image: "https://raw.githubusercontent.com/procrastinateos/procrastinateos/main/docs/assets/cover.png"
+canonical_url: "https://github.com/Daksh-create349/Procrastinate-OS"
+cover_image: "https://raw.githubusercontent.com/Daksh-create349/Procrastinate-OS/main/docs/assets/cover.png"
 ---
 
 *This is a submission for the [Hacktoberfest Open-Source AI Challenge Week 3: Slow and Steady](https://dev.to/challenges/hacktoberfest-week3-2026-10-19)*
@@ -53,19 +53,12 @@ It runs **100% locally on your machine** — zero cloud API calls, zero telemetr
 ## Demo
 <!-- Share a deployed link or a video demo. -->
 
-<!-- ============================================================ -->
-<!-- YOUTUBE VIDEO WATERMARK & EMBED LINK                         -->
-<!-- Replace 'YOUR_VIDEO_ID_HERE' with your real YouTube Video ID -->
-<!-- Example: If URL is https://youtube.com/watch?v=abc123xyz    -->
-<!-- Replace YOUR_VIDEO_ID_HERE with abc123xyz                    -->
-<!-- ============================================================ -->
+{% youtube _mMriufO8wQ %}
 
-{% youtube YOUR_VIDEO_ID_HERE %}
-
-> **Direct Video Link**: [Watch the ProcrastinateOS 90-Second Walkthrough on YouTube](https://www.youtube.com/watch?v=YOUR_VIDEO_ID_HERE)  
+> **Direct Video Link**: [Watch the ProcrastinateOS 90-Second Walkthrough on YouTube](https://youtu.be/_mMriufO8wQ)  
 > *(Demonstrates live scanning, safe PDF/DOCX extraction, SHA-256 duplicate detection, on-device Ollama semantic grouping, 15-minute queue generation, and 1-click filesystem undo).*
 
-[![ProcrastinateOS Demo Video](https://img.youtube.com/vi/YOUR_VIDEO_ID_HERE/maxresdefault.jpg)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID_HERE)
+[![ProcrastinateOS Demo Video](https://img.youtube.com/vi/_mMriufO8wQ/maxresdefault.jpg)](https://youtu.be/_mMriufO8wQ)
 
 ---
 
@@ -152,9 +145,9 @@ We included an end-to-end demo walkthrough script running against an isolated sy
 ## Code
 <!-- Show us the code!  You can embed a GitHub repo directly into your post. -->
 
-{% github procrastinateos/procrastinateos %}
+{% github Daksh-create349/Procrastinate-OS %}
 
-**GitHub Repository**: [https://github.com/procrastinateos/procrastinateos](https://github.com/procrastinateos/procrastinateos)  
+**GitHub Repository**: [https://github.com/Daksh-create349/Procrastinate-OS](https://github.com/Daksh-create349/Procrastinate-OS)  
 *MIT Licensed • Complete with synthetic demo workspace • 101 automated tests passing.*
 
 ---
@@ -194,7 +187,7 @@ procrastinateos/
 ollama run qwen2.5:1.5b
 
 # 2. Clone repository and start Python backend
-git clone https://github.com/procrastinateos/procrastinateos.git
+git clone https://github.com/Daksh-create349/Procrastinate-OS.git
 cd procrastinateos/backend
 python3.11 -m venv venv && source venv/bin/activate
 pip install -r requirements.txt
